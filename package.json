@@ -1,0 +1,9 @@
+{
+  "name": "rysenko",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.10.6",
+    "marked": "^0.3.2"
+  },
+  "scripts": { "start" : "node ." }
+}
